@@ -1,9 +1,23 @@
 # Shristi-Singh-Vayusheild
  Inovation : Our system gives the first resource recovery transforming road dust into valuable resources via microbes &amp; bioreactor.
 
+
  
 your problem : Urban dust is an overlooked waste stream that poses both environmental risks and missed economic opportunities. Every city generates hundreds of tons of road and industrial dust each year, which is usually swept away, washed into drains, or dumped in landfills. While commonly ignored, this dust contains a mix of toxic pollutants, microplastics, heavy metals, and fine particulate matter that harm the environment. At the same time, it also holds valuable resources such as precious metals, rare earth elements, and industrial minerals. However, current municipal practices treat dust solely as waste, focusing only on collection and disposal rather than resource recovery. As a result, cities not only contribute to environmental pollution but also lose the chance to reclaim valuable materials that could be repurposed into useful products.
+
+
+
 Soluation : Our solution is to transform road dust — a waste that nobody cares about — into a valuable resource hub. By extracting precious metals for resale, recovering usable minerals for industrial use, and converting low-value particles into eco-friendly construction materials or fuel, we can prevent this dust from polluting our lungs and waterways. Instead of letting it harm the environment, we turn it into something the economy can actually use. This isn’t just recycling — it’s about unlocking a hidden economy from something people usually sweep away and forget.
+
+
+
 Process : The process begins with dust collection and transport using modified road sweeper trucks with sealed hoppers and HEPA filters, followed by transfer hoppers and conveyors for safe movement. In the primary separation stage, rotary screens remove large debris, cyclone separators split dust by weight, and baghouse collectors capture ultra-fine particles. Secondary separation involves magnetic and eddy current separators to recover metals, while density tables classify heavy minerals from plastics and organics. In the metal recovery line, bioleaching reactors dissolve metals, filtration units remove residues, and electrowinning or precipitation units recover pure metals, which are then dried and packaged. Meanwhile, plastic and light fractions are processed through shredding, granulation, extrusion, and molding into composites like bricks, tiles, or boards; unrecyclable plastics are converted into fuel via pyrolysis. For residue management, hazardous waste undergoes thermal treatment or safe landfill containment. Finally, quality control and automation is ensured with XRF analyzers, moisture and particle size monitoring, and PLC/SCADA systems to automate plant operations.
+
+
+
 Here is the link of our presentation https://www.canva.com/design/DAGwxYIA8fo/yBXYrqGuxGSo0HVO1qD5bw/view?utm_content=DAGwxYIA8fo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbc07a5fe03
+
+
+
+
 Thankyou
